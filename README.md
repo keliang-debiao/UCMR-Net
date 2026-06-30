@@ -4,7 +4,6 @@ This repository contains the code-only package for **UCMR-Net**, a text-anchored
 
 The package is intended to provide runnable code for model training, unified baseline execution, controlled ablation, missing-modality evaluation, calibration analysis, residual reliability analysis, modality corruption analysis, CMU-MOSEI validation, and significance testing.
 
-This repository does **not** include experimental result tables, pretrained checkpoints, prediction files, generated figures, or processed datasets.
 
 ## Repository contents
 
